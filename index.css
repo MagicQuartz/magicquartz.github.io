@@ -5,5 +5,17 @@ body {
 	background-size: 100% 100%;
 	font-family: "Retron2000";
 	color: #ffffff;
-	text-shadow: 0px 3px #000000;
+}
+
+.outline {
+	text-shadow: 
+		-1px -1px 0 #cf3dd4,  
+		1px -1px 0 #cf3dd4,
+		-1px  1px 0 #cf3dd4,
+		1px  1px 0 #cf3dd4;
+	color: #1c0c30;
+}
+
+p {
+	text-shadow:  0px 2px 0 #000000;
 }
